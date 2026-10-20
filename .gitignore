@@ -1,0 +1,7 @@
+*.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+docs/Output/citra_crop_purworejo.tif
+docs/Output/indeks_bersih_purworejo.tif
+docs/Output/indeks_spektral_purworejo.tif
